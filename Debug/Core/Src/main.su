@@ -1,0 +1,13 @@
+../Core/Src/main.c:104:5:main	56	static
+../Core/Src/main.c:191:6:SystemClock_Config	96	static
+../Core/Src/main.c:241:13:MX_ADC1_Init	48	static
+../Core/Src/main.c:308:13:MX_TIM2_Init	48	static
+../Core/Src/main.c:357:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:392:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:452:6:uartCommandTask	24	static
+../Core/Src/main.c:486:6:buttonTaskFcn	24	static
+../Core/Src/main.c:512:6:sensorTaskFcn	24	static
+../Core/Src/main.c:548:6:potentiometerTaskFcn	16	static
+../Core/Src/main.c:574:6:StartDefaultTask	16	static
+../Core/Src/main.c:593:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:610:6:Error_Handler	4	static,ignoring_inline_asm
